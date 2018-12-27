@@ -6,8 +6,16 @@ public class Car {
 		System.out.println("poor mileage");
 
 	}
+	
+	public static void scorpio() {
+		System.out.println("vintage model");
+
+	}
 	public static void main(String[] args) {
 		innova();
+		scorpio();
 	}
+	
+	
 
 }
